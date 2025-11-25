@@ -1,7 +1,7 @@
 # FoodDelivery
-
-تطبيق ويب لتوصيل الطعام مبني باستخدام Next.js وTailwind CSS.
 ![Project photo](./public/images/imgwwep.png)
+تطبيق ويب لتوصيل الطعام مبني باستخدام Next.js وTailwind CSS.
+
 
 ## 🛠️ التقنيات المستخدمة  
 - Next.js (App Router + TypeScript)  
