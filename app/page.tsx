@@ -25,7 +25,9 @@ export default function Home() {
 
       {/* المطاعم */}
       <section>
+        <a href="/restaurants ">
         <h2 className="text-2xl font-bold mb-4">Restaurants</h2>
+        </a>
         <div className="flex space-x-4 overflow-x-auto pb-2">
           {restaurants.map((rest) => (
             <RestaurantCard key={rest.id} name={rest.name} image={rest.image} rating={rest.rating} />

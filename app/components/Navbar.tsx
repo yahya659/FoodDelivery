@@ -6,7 +6,6 @@ const Navbar = () => {
       <h1 className="text-2xl font-bold">FoodDelivery</h1>
       <div className="space-x-6 text-lg">
         <Link href="/">Home</Link>
-        <Link href="/menu">Menu</Link>
         <Link href="/cart">Cart</Link>
         <Link href="/auth">Login</Link>
       </div>
