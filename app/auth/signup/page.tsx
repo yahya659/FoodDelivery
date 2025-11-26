@@ -9,7 +9,7 @@ export default function SignupPage() {
 
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();
-    // هنا يمكنك إضافة منطق تسجيل الحساب لاحقًا
+   
     console.log("Name:", name, "Email:", email, "Password:", password);
   };
 

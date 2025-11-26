@@ -8,7 +8,7 @@ export default function LoginPage() {
 
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();
-    // هنا يمكنك إضافة منطق تسجيل الدخول لاحقًا
+   
     console.log("Email:", email, "Password:", password);
   };
 
